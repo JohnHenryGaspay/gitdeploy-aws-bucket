@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3git3dviwerstoraged527a2ee",
+  "bucketName": "git-3d-viwer-storage-d527a2ee",
+  "policyUUID": "8e97051d",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

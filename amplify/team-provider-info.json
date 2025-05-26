@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-git3dviwer-staging-40141-authRole",
+      "UnauthRoleArn": "arn:aws:iam::887100203399:role/amplify-git3dviwer-staging-40141-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::887100203399:role/amplify-git3dviwer-staging-40141-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-git3dviwer-staging-40141-deployment",
+      "UnauthRoleName": "amplify-git3dviwer-staging-40141-unauthRole",
+      "StackName": "amplify-git3dviwer-staging-40141",
+      "StackId": "arn:aws:cloudformation:us-west-2:887100203399:stack/amplify-git3dviwer-staging-40141/b235daa0-39d0-11f0-8bdf-06ca7d01e581",
+      "AmplifyAppId": "d3e514q2dn9c1o"
+    },
+    "categories": {
+      "auth": {
+        "git3dviwer": {}
+      }
+    }
+  }
+}
