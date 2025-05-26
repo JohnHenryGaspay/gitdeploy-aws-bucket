@@ -1,6 +1,4 @@
-
-name: Upload Website
-
+name: Deploy Website>>>>>>> a4f75716fa78c2597c587ffc19d62985409629b8
 on:
   push:
     branches:
